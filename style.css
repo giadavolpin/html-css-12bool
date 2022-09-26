@@ -1,0 +1,20 @@
+:root{
+    --black: #000;
+    --azzurro: rgb(0, 108, 250);
+    --white: rgb(255,255,255);
+    --green: rgb(0, 225, 101);
+}
+.debug{
+    border: 1px solid white;
+    background-color: var(--azzurro);
+    color: var(--white);
+    padding: 10px;
+    text-align: center;
+}
+.nasted{
+    background-color: var(--green);
+    border: 1px solid var(--azzurro);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
