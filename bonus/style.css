@@ -9,6 +9,10 @@
     --red: rgb(254, 0, 0);
     --darkgray: rgb(20, 20, 20);
 }
+body{
+    max-width: calc(12 * 50px);
+    margin: 0 auto;
+}
 .debug{
     border: 1px solid black;
     padding: 10px;  
